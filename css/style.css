@@ -791,9 +791,13 @@ h1, h2, h3, h4, h5,
   -o-transition: .3s all ease;
   transition: .3s all ease;
   background: #fff; }
-  .ftco-feature-1 .icon {
+  /* .ftco-feature-1 .icon {
+     background: url(../images/boxer.svg);
     font-size: 70px;
     color: #f23a2e; }
+  .ftco-feature-1 .flaticon-boxer::before{
+    background: url(../images/boxer.svg);
+  } */
   .ftco-feature-1 .ftco-feature-1-text {
     padding: 30px; }
   .ftco-feature-1 h2 {
@@ -986,4 +990,4 @@ h1, h2, h3, h4, h5,
 
 .footer-section {
   padding-top: 12rem !important; }
-  .intro-section
+  /* .intro-section */
